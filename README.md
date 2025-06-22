@@ -7,7 +7,7 @@
 
 ### 🚀 Sobre mim
 
-Sou formada em Comunicação Social, com habilitação em Jornalismo, área em que atuo há mais de 20 anos — passando por diagramação, redação, televisão, assessoria, produção de vídeos e mídias digitais. Mas antes de tudo isso, minha primeira formação foi o ensino médio com técnico em Informática. Agora, decidi **retomar esse caminho** que sempre esteve presente em mim.
+Sou formada em Comunicação Social, com habilitação em Jornalismo, área em que atuo há mais de 20 anos - passando por diagramação, redação, televisão, assessoria, produção de vídeos e mídias digitais. Mas antes de tudo isso, minha primeira formação foi o ensino médio com técnico em Informática. Agora, decidi **retomar esse caminho** que sempre esteve presente em mim.
 
 Atualmente curso **Engenharia de Software** e estou aprofundando meus conhecimentos em desenvolvimento com foco em **C#, .NET, lógica de programação e computação em nuvem**.
 
